@@ -1,2 +1,7 @@
-# Smart-Phone-Sensing-Bayes-
-基于贝叶斯的室内定位Android App，根据wifi RSSID数值进行概率统计训练模型并精准定位所在方位。
+# Example 4
+### Purpose 
+Understand the use of the Wifi manager.
+### Operation 
+Press the button to visualize wifi received signal strengths.
+
+**Note:** Enable location permission for the app in your Android device.
